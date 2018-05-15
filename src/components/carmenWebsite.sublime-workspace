@@ -1,0 +1,1953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Greet",
+				"Greeting__logo"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"gene",
+				"generateMessage〔variable〕"
+			],
+			[
+				"it",
+				"its\tBDD it synchronous"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"mod",
+				"mod\tmoduleSingleExport"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"new",
+				"newMessageHeight〔variable〕"
+			],
+			[
+				"cli",
+				"clientHeight"
+			],
+			[
+				"creat",
+				"createdAt"
+			],
+			[
+				"for",
+				"formattedTime〔variable〕"
+			],
+			[
+				"forma",
+				"formattedTime"
+			],
+			[
+				"loca",
+				"locationButton〔variable〕"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"na",
+				"navigator"
+			],
+			[
+				"loc",
+				"locationButton"
+			],
+			[
+				"generate",
+				"generateMessage〔class〕"
+			],
+			[
+				"soc",
+				"socketIO〔variable〕"
+			],
+			[
+				"data",
+				"dataObj"
+			],
+			[
+				"button--state",
+				"button--state-submit"
+			],
+			[
+				"set",
+				"setStreamOnlineStatus"
+			],
+			[
+				"show",
+				"showOnlineStreams"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"grid-templa",
+				"grid-template-columns"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sli",
+				"sliceString"
+			],
+			[
+				"geo",
+				"geocodeUrl〔variable〕"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"font",
+				"font-family: 〔property〕"
+			],
+			[
+				"Wiki__se",
+				"Wiki__search-icon"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"textToUpperCase"
+			],
+			[
+				"trans",
+				"transition-delay"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"icon_",
+				"icon__randomDice-svg"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"optin",
+				"options"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"primes",
+				"primesArr〔variable〕"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"res",
+				"resultStr〔argument〕"
+			],
+			[
+				"boo",
+				"booWho〔function〕"
+			],
+			[
+				"con",
+				"con\tconsole-log"
+			],
+			[
+				"source",
+				"sourceKeys"
+			],
+			[
+				"sour",
+				"sourceValues〔variable〕"
+			],
+			[
+				"encode",
+				"encodedQuote"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"twe",
+				"tweetUrl"
+			],
+			[
+				"en",
+				"encodedQuote"
+			],
+			[
+				"movie",
+				"movieQuotes〔variable〕"
+			],
+			[
+				"weat",
+				"weatherForecast〔variable〕"
+			],
+			[
+				"geocode",
+				"geocodeUrl"
+			],
+			[
+				"geoco",
+				"geocodeApiKey〔variable〕"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"geocode_",
+				"geocode_api_key"
+			],
+			[
+				"Wat",
+				"Weather__data"
+			],
+			[
+				"fetch",
+				"fetchOthersWeather"
+			],
+			[
+				"uni",
+				"unitTemp〔variable〕"
+			],
+			[
+				"config",
+				"configApi"
+			],
+			[
+				"get",
+				"getFullConfigForApi"
+			],
+			[
+				"we",
+				"weatherApi"
+			],
+			[
+				"map",
+				"mapActions"
+			],
+			[
+				"HAN",
+				"HANDLE_GEOLOCATION_ERROR"
+			],
+			[
+				"HAND",
+				"HANDLE_GEOLOCATION_SUCCESS"
+			],
+			[
+				"Han",
+				"HANDLE_GEOLOCATION_SUCCESS"
+			],
+			[
+				"fet",
+				"fetchOthersWeather"
+			],
+			[
+				"weather",
+				"weatherSuccessHandler"
+			],
+			[
+				"icon-sun",
+				"icon-sunrain"
+			],
+			[
+				"iconType",
+				"iconTypeName"
+			],
+			[
+				"Wea",
+				"Weather__container"
+			],
+			[
+				"to",
+				"toFixedDecimal"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"cha",
+				"changeUnits"
+			],
+			[
+				"Tra",
+				"translateY()"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"current",
+				"currently"
+			],
+			[
+				"cloud",
+				"cloudCover"
+			],
+			[
+				"curr",
+				"currently"
+			],
+			[
+				"Wear",
+				"Weather__night"
+			],
+			[
+				"icon",
+				"icon__snow"
+			],
+			[
+				"transla",
+				"translateY()"
+			],
+			[
+				"gr",
+				"grid__row"
+			],
+			[
+				"shif",
+				"shiftValue〔variable〕"
+			],
+			[
+				"char",
+				"charCodeAt〔function〕"
+			],
+			[
+				"ch",
+				"charCodeAt〔function〕"
+			],
+			[
+				"Welcom",
+				"Welcome__button2"
+			],
+			[
+				"proc",
+				"process.env.MONGODB_URI"
+			],
+			[
+				"proces",
+				"process.env.NODE_ENV"
+			],
+			[
+				"setT",
+				"setTimeout〔function〕"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inptt",
+				"inputt\tinput - text"
+			],
+			[
+				"label",
+				"label\tTag"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"compone",
+				"components"
+			],
+			[
+				"inputc",
+				"inputc\tinput - checkbox"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"templa",
+				"grid-template-columns"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pro",
+				"productsDB"
+			],
+			[
+				"reuq",
+				"required"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"gri",
+				"grid-column"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"sel",
+				"SelectProducts"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"com",
+				"completionDate"
+			],
+			[
+				"inlen",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padS",
+				"padString"
+			],
+			[
+				"ins",
+				"insertSpaces"
+			],
+			[
+				"spl",
+				"splitedFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/kameush/Projects/carmen_website/src/router/index.js",
+			"settings":
+			{
+				"buffer_size": 356,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kameush/Projects/carmen_website/index.html",
+			"settings":
+			{
+				"buffer_size": 358,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Home.vue",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Greeting.vue",
+			"settings":
+			{
+				"buffer_size": 875,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kameush/Projects/fcc_projects/frontend_challenges/static/globalStyles.css",
+			"settings":
+			{
+				"buffer_size": 7167,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kameush/Projects/carmen_website/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"subt",
+				"Snippet: subTitleComment"
+			],
+			[
+				"lo\t",
+				"Convert Case: Lower Case"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"sub",
+				"Snippet: subTitleComment"
+			],
+			[
+				"Uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"su",
+				"Snippet: subTitleComment"
+			],
+			[
+				"Ti\t",
+				"Convert Case: Title Case"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"subti",
+				"Snippet: subTitleComment"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Clear All"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"tit",
+				"Snippet: titleComment"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Snippet: titleComment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"colorp",
+				"Color Picker"
+			],
+			[
+				"uppr",
+				"Convert Case: Upper Case"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"show",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"sinppet: comm",
+				"Snippet: titleComment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"SWA",
+				"Convert Case: Swap Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"MENU",
+				"View: Toggle Menu"
+			],
+			[
+				"con",
+				"Convert Case: Upper Case"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"must",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"VI",
+				"View In Browser"
+			],
+			[
+				"VIEW",
+				"View In Browser"
+			],
+			[
+				"veiw",
+				"View In Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"mark\t",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				" word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html wi",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: requireFile"
+			],
+			[
+				"Snippet: fi",
+				"Snippet: requireFile"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"filter",
+				"Filter Lines: Fold With Regex"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 339.0,
+		"history":
+		[
+			"asd",
+			"cls",
+			"ckls",
+			"cl",
+			"sl",
+			"cl",
+			"clear",
+			"let x = 0",
+			"help",
+			"node",
+			"ls",
+			"la",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kameush/Projects/carmen_website",
+		"/home/kameush/Projects/carmen_website/src",
+		"/home/kameush/Projects/carmen_website/src/assets",
+		"/home/kameush/Projects/carmen_website/src/components",
+		"/home/kameush/Projects/carmen_website/src/router"
+	],
+	"file_history":
+	[
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/server.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/users.test.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/users.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/validation.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/message.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/validation.test.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/public/js/index.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/public/index.html",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/public/css/styles.css",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/server/utils/message.test.js",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/package.json",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/package-lock.json",
+		"/home/kameush/Tutorials/backend/udemy/node-chat-app/.gitignore",
+		"/home/kameush/Projects/alexoo/some-alexo-app/src/Components/SearchOompa.js",
+		"/home/kameush/Projects/alexoo/some-alexo-app/src/Components/Oompas.js",
+		"/home/kameush/Documents/Nicolas Ramirez CV.txt",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/wikiViewer/WikiViewer.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/Procfile",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/store/index.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/api/index.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/static/globalStyles.css",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/weather/Weather.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/app.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/twitchStreams/TwitchBrowser.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/index.html",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/config/index.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/rqmachine/RQMachine.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/build/webpack.dev.conf.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/build/webpack.base.conf.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/router/index.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/Welcome.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/tests/server.test.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/wikiViewer/RandomDice.vue",
+		"/home/kameush/.bashrc",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/svg/randomDice.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/weather/icons/Moon.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/fccFrontendChallenges.sublime-project",
+		"/home/kameush/Desktop/notes.txt",
+		"/home/kameush/examples.desktop",
+		"/home/kameush/Release.key",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/App.vue",
+		"/home/kameush/Playground/javascript/fcc-challenges/whereforArtThou.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/api/weather.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/package.json",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/Weather.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Moon.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Storm.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/app.json",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/.gitignore",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/server.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Wind.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/SunAndRain.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Sun.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Snow.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/MoonAndRain.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Rain.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/components/apps/icons/Cloud.vue",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/home/kameush/.nvm/versions/node/v8.11.0/lib/node_modules/npm/node_modules/bluebird/js/release/promisify.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/moon.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/wind.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/moonAndRain.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/sunAndRain.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/store/modules/users.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/snow.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/storm.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/rain.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/sun.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/cloudy.svg",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/test/e2e/specs/test.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/server/index.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/node_modules/.bin/prettier",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/node_modules/webpack/hot/dev-server.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/src/main.js",
+		"/home/kameush/Projects/fcc_projects/frontend_challenges/README.md",
+		"/home/kameush/Playground/mongoosejs/package.json",
+		"/home/kameush/Playground/mongoosejs/tests/app.test.js",
+		"/home/kameush/Playground/mongoosejs/db/mongoose.js",
+		"/home/kameush/Playground/mongoosejs/app.js",
+		"/home/kameush/.config/sublime-text-3/Packages/User/JavaScript.sublime-build",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/router/index.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/Dashboard.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/Navigation.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/Data.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/Welcome.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/forms/AddItem.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/GreetingLogo.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/DB_dictionary.md",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/models/productR.js",
+		"/home/kameush/Databases/mongodb/mongo/mongod.log",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/db/mongoose.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/server.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/store/index.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/app.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/package.json",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/DB_dictionary.md",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/static/globalStyles.css",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/config/config.json",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/config/index.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/store/modules/products.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/models/product.js",
+		"/home/kameush/Tutorials/backend/deploy_mongodb_heroku/server.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/MatizShop_client.sublime-project",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/forms/AddNotes.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/forms/AddRates.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/forms/AddSpecs.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/server/node_modules/babel-core/lib/store.js",
+		"/home/kameush/backup/Projects/airbnb/air-tools/client/src/store/index.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/App.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/.gitignore",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/main.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/static/fonts/Montserrat/stylesheet.css",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/previews/DBPreview.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/test.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/dashboard.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/addProducts.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/index.html",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/refactoring/Dashboard.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/refactoring/Navigation.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/refactoring/GreetingLogo.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/refactoring/Welcome.vue",
+		"/home/kameush/Downloads/palette.scss",
+		"/home/kameush/Downloads/palette.svg",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/router/router.js",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/modules.vue",
+		"/home/kameush/.config/sublime-text-3/Packages/User/css/fontFamily.sublime-snippet",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/src/components/selectProducts.vue",
+		"/home/kameush/Projects/antiques/app-antique-shop/client/static/fonts/Montserrat/generator_config.txt",
+		"/home/kameush/.config/sublime-text-3/Packages/AdvancedNewFile/README.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Greeting__container",
+			"height",
+			"column",
+			"columns",
+			"Greeting",
+			"HelloWorld"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/kameush/Projects/carmen_website/src/router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/kameush/Projects/carmen_website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Greeting.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								875,
+								875
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/kameush/Projects/fcc_projects/frontend_challenges/static/globalStyles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1169,
+								1169
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/kameush/Projects/carmen_website/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 55.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "carmenWebsite.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"wki",
+				"src/components/wikiViewer/WikiViewer.vue"
+			],
+			[
+				"bro",
+				"src/components/twitchStreams/TwitchBrowser.vue"
+			],
+			[
+				"pr",
+				"Procfile"
+			],
+			[
+				"store",
+				"src/store/index.js"
+			],
+			[
+				"app",
+				"server/app.js"
+			],
+			[
+				"api",
+				"server/api/index.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"config",
+				"config/index.js"
+			],
+			[
+				"web",
+				"build/webpack.dev.conf.js"
+			],
+			[
+				"webpac",
+				"build/webpack.base.conf.js"
+			],
+			[
+				"rq",
+				"src/components/rqmachine/RQMachine.vue"
+			],
+			[
+				"weat",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"welcom",
+				"src/components/Welcome.vue"
+			],
+			[
+				"router",
+				"src/router/index.js"
+			],
+			[
+				"glo",
+				"static/globalStyles.css"
+			],
+			[
+				"test",
+				"server/tests/server.test.js"
+			],
+			[
+				"rqm",
+				"src/components/rqmachine/RQMachine.vue"
+			],
+			[
+				"rando",
+				"src/components/wikiViewer/RandomDice.vue"
+			],
+			[
+				"gl",
+				"static/globalStyles.css"
+			],
+			[
+				"we",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"welco",
+				"src/components/Welcome.vue"
+			],
+			[
+				"wiki",
+				"src/components/wikiViewer/WikiViewer.vue"
+			],
+			[
+				"wea",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"ran",
+				"src/components/wikiViewer/RandomDice.vue"
+			],
+			[
+				"wwath",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"rand",
+				"src/components/wikiViewer/RandomDice.vue"
+			],
+			[
+				"weath",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"moon",
+				"src/components/weather/icons/Moon.vue"
+			],
+			[
+				"subl",
+				"fccFrontendChallenges.sublime-project"
+			],
+			[
+				"app.vu",
+				"src/App.vue"
+			],
+			[
+				"wik",
+				"src/components/wikiViewer/WikiViewer.vue"
+			],
+			[
+				"w",
+				"src/components/weather/Weather.vue"
+			],
+			[
+				"weathe",
+				"server/api/weather.js"
+			],
+			[
+				"serrver.te",
+				"server/tests/server.test.js"
+			],
+			[
+				"glob",
+				"static/globalStyles.css"
+			],
+			[
+				"server",
+				"server/tests/server.test.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"app.",
+				"server/app.js"
+			],
+			[
+				"sto",
+				"src/store/index.js"
+			],
+			[
+				"welc",
+				"src/components/Welcome.vue"
+			],
+			[
+				"stor",
+				"src/components/apps/icons/Storm.vue"
+			],
+			[
+				"weather",
+				"src/components/apps/Weather.vue"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"serve",
+				"server/tests/server.test.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"app.js",
+				"server/app.js"
+			],
+			[
+				"clo",
+				"src/components/apps/icons/Cloud.vue"
+			],
+			[
+				"rain",
+				"src/components/apps/icons/Rain.vue"
+			],
+			[
+				"snow",
+				"src/components/apps/icons/Snow.vue"
+			],
+			[
+				"storm",
+				"src/components/apps/icons/Storm.vue"
+			],
+			[
+				"wind",
+				"src/components/apps/icons/Wind.vue"
+			],
+			[
+				"config/",
+				"config/index.js"
+			],
+			[
+				"webpack",
+				"build/webpack.base.conf.js"
+			],
+			[
+				"sunand",
+				"src/components/apps/icons/SunAndRain.vue"
+			],
+			[
+				"cl",
+				"src/components/apps/icons/Cloud.vue"
+			],
+			[
+				"sunan",
+				"src/components/apps/icons/SunAndRain.vue"
+			],
+			[
+				"su",
+				"src/components/apps/icons/Sun.vue"
+			],
+			[
+				"sun",
+				"src/components/apps/icons/Sun.vue"
+			],
+			[
+				"store/mode",
+				"src/store/modules/users.js"
+			],
+			[
+				"clou",
+				"src/components/apps/icons/Cloud.vue"
+			],
+			[
+				"snoew",
+				"src/components/apps/icons/Snow.vue"
+			],
+			[
+				"reain",
+				"src/components/apps/icons/Rain.vue"
+			],
+			[
+				".svg",
+				"sunAndRain.svg"
+			],
+			[
+				"sotrm",
+				"src/components/apps/icons/Storm.vue"
+			],
+			[
+				"svg",
+				"snow.svg"
+			],
+			[
+				"cloud",
+				"cloudy.svg"
+			],
+			[
+				"icons/",
+				"src/components/apps/icons/Cloud.vue"
+			],
+			[
+				"sun.v",
+				"src/components/apps/icons/Sun.vue"
+			],
+			[
+				"global",
+				"static/globalStyles.css"
+			],
+			[
+				"server/a",
+				"server/app.js"
+			],
+			[
+				"sublim",
+				"fccFrontendChallenges.sublime-project"
+			],
+			[
+				"dev-ser",
+				"node_modules/webpack/hot/dev-server.js"
+			],
+			[
+				"webpack.conf",
+				"build/webpack.dev.conf.js"
+			],
+			[
+				"webpack.con",
+				"build/webpack.base.conf.js"
+			],
+			[
+				"main",
+				"src/main.js"
+			],
+			[
+				"wel",
+				"src/components/Welcome.vue"
+			],
+			[
+				"produ",
+				"server/models/product.js"
+			],
+			[
+				"data",
+				"client/src/components/Data.vue"
+			],
+			[
+				"na",
+				"client/src/components/Navigation.vue"
+			],
+			[
+				"greet",
+				"client/src/components/GreetingLogo.vue"
+			],
+			[
+				"dash",
+				"client/src/components/Dashboard.vue"
+			],
+			[
+				"additem",
+				"client/src/components/forms/AddItem.vue"
+			],
+			[
+				"produc",
+				"server/models/product.js"
+			],
+			[
+				"store/modules",
+				"client/src/store/modules/products.js"
+			],
+			[
+				"store/in",
+				"client/src/store/index.js"
+			],
+			[
+				"store/",
+				"client/src/store/index.js"
+			],
+			[
+				"addra",
+				"client/src/components/forms/AddRates.vue"
+			],
+			[
+				"dashbo",
+				"client/src/components/Dashboard.vue"
+			],
+			[
+				"notes",
+				"client/src/components/forms/AddNotes.vue"
+			],
+			[
+				"store/i",
+				"client/src/store/index.js"
+			],
+			[
+				"specs",
+				"client/src/components/forms/AddSpecs.vue"
+			],
+			[
+				"navig",
+				"client/src/components/Navigation.vue"
+			],
+			[
+				"store/inde",
+				"client/src/store/index.js"
+			],
+			[
+				"prod",
+				"src/store/modules/products.js"
+			],
+			[
+				"sotre",
+				"src/store/index.js"
+			],
+			[
+				"addit",
+				"src/components/forms/AddItem.vue"
+			],
+			[
+				"addi",
+				"src/components/forms/AddItem.vue"
+			],
+			[
+				"addnotes",
+				"src/components/forms/AddNotes.vue"
+			],
+			[
+				"rates",
+				"src/components/forms/AddRates.vue"
+			],
+			[
+				"a",
+				"src/components/forms/AddItem.vue"
+			],
+			[
+				"spec",
+				"src/components/forms/AddSpecs.vue"
+			],
+			[
+				"spe",
+				"src/components/forms/AddSpecs.vue"
+			],
+			[
+				"rate",
+				"src/components/forms/AddRates.vue"
+			],
+			[
+				"mai",
+				"src/main.js"
+			],
+			[
+				"app.vue",
+				"src/App.vue"
+			],
+			[
+				"styl",
+				"static/fonts/Montserrat/stylesheet.css"
+			],
+			[
+				"styles",
+				"static/fonts/Montserrat/stylesheet.css"
+			],
+			[
+				"addspe",
+				"src/components/forms/AddSpecs.vue"
+			],
+			[
+				"db",
+				"src/components/previews/DBPreview.vue"
+			],
+			[
+				"add",
+				"src/components/forms/AddRates.vue"
+			],
+			[
+				"ad",
+				"src/components/forms/AddItem.vue"
+			],
+			[
+				"test.vu",
+				"src/components/test.vue"
+			],
+			[
+				"das",
+				"src/components/Dashboard.vue"
+			],
+			[
+				"",
+				"src/components/Data.vue"
+			],
+			[
+				"n",
+				"src/components/Navigation.vue"
+			],
+			[
+				"addr",
+				"src/components/forms/AddRates.vue"
+			],
+			[
+				"adds",
+				"src/components/forms/AddSpecs.vue"
+			],
+			[
+				"style",
+				"static/fonts/Montserrat/stylesheet.css"
+			],
+			[
+				"addpr",
+				"src/components/addProducts.vue"
+			],
+			[
+				"da",
+				"src/components/Dashboard.vue"
+			],
+			[
+				"fonts/montserrat/st",
+				"static/fonts/Montserrat/stylesheet.css"
+			],
+			[
+				"gre",
+				"src/refactoring/GreetingLogo.vue"
+			],
+			[
+				"gree",
+				"src/refactoring/GreetingLogo.vue"
+			],
+			[
+				"naviga",
+				"src/refactoring/Navigation.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 416.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 316.0
+	},
+	"select_symbol":
+	{
+		"height": 110.0,
+		"last_filter": "bax",
+		"selected_items":
+		[
+			[
+				"bax",
+				"box--gray"
+			]
+		],
+		"width": 486.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
