@@ -2,7 +2,7 @@
   <div class="Greeting">
     <div class="Greeting__container">
       <div class="Greeting__logo">
-        <img src="../assets/logo.png" alt="">
+        <img src="../assets/logo.png" alt="Carmen Carrazquez">
       </div>
       <div class="Greeting__action"
           @click="goToHome()">
@@ -21,7 +21,7 @@ export default {
   },
   methods: {
     goToHome () {
-      this.$router.push('/home')
+      this.$router.push('/gallery')
     }
   }
 }
@@ -34,7 +34,6 @@ export default {
   grid-template-rows: repeat(3, 1fr);
   height: 100%;
   width: 100%;
-  background-color: #000;
 }
 .Greeting__container h1 { font-weight: 100 }
 .Greeting__container {

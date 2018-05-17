@@ -1,0 +1,74 @@
+body, html {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Oswald', Arial, sans-serif;
+}
+#app {
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ul, menu, dir {
+  margin: 0;
+  padding: 0;
+}
+html * { box-sizing: border-box }
+li     { list-style-type: none }
+
+a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+input {
+  font-family: monospace;
+  padding-left: 0.5rem;
+}
+h1, h2, h3, h4, h5, h6 {
+  -webkit-margin-before: 0.1em;
+  -webkit-margin-after: 0.1em;
+}
+button {
+  position: relative;
+  background: none;
+  cursor: pointer;
+  font-family: 'Oswald', Arial, sans-serif;
+}
+
+
+.grid {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-gap: 1rem;
+}
+
+
+/*=========================*\
+  #VUE TRANSITIONS
+\*=========================*/
+
+.fade-enter-active{
+  transition: opacity 1s;
+  transition-delay: .4s;
+}
+.fade-leave-active {  transition: opacity 0.3s }
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+.slide-fade-enter-active {
+  transition: all 0.8s ease;
+  transition-delay: 0.4s;
+}
+.slide-fade-leave-active {
+  transition: all .2s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+.slide-fade-enter, .slide-fade-leave-to {
+  transform: translateY(5rem);
+  opacity: 0;
+}
